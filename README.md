@@ -1,8 +1,6 @@
 ### Oii, eu sou a kethleen
 
-- 🌱 Estudando JavaScript
-- 😄 Ela/dela
-
+##
 <div>
 <a href="https://github.com/kettaraujo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kettaraujo&layout=compact&langs_count=7&theme=dracula"/>
