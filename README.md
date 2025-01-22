@@ -26,4 +26,3 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula) 
-![Top Langs](https://github-readme-stats.vercel.app/api/Top-langs/?username=anuraghazra&hide_progress=true)
