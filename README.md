@@ -1,4 +1,4 @@
-**Hi there, my name is Kethleen** 👋
+## **Hi there, my name is Kethleen** 👋
 
 I work with data analysis, conduct studies in the field of software development and i'm a student at Federal University of ABC (UFABC).
 
@@ -8,9 +8,8 @@ Currently, I'm focusing on improving my knowledge in:
 
 - 🌀 Backend
 - 🎨 Framework React
-  
-Let's talk about these topics! 😊
 
+Let's talk about these topics! 😊
 <div style="display: inline_block"><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kettaraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kettaraujo&layout=compact&langs_count=6&theme=dracula"/>
