@@ -1,4 +1,5 @@
- *Hi there, my name is Kethleen* 👋
+ __Hi there, my name is Kethleen__ 👋
+ 
 I work with data analysis, conduct studies in the field of software development and i'm a student at Federal University of ABC (UFABC).
 
 In my daily work, I use the following technologies: Python, JavaScript, MySQL database, and Django.
