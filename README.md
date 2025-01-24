@@ -6,10 +6,7 @@ In my daily work, I use the following technologies: Python, JavaScript, MySQL da
 
 Currently, I'm focusing on improving my knowledge in:
 
-<div style="display: block">
 🌀 Backend
-🎨 React framework
-</div>
 
 Let's talk about these topics! 😊
 
