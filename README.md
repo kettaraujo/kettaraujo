@@ -11,6 +11,8 @@
 </div>
   
   #
-  <table>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kettaraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kettaraujo&layout=compact&langs_count=6&theme=dracula"/>
-</table>
+
+<div style="display: inline_block"><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kettaraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kettaraujo&layout=compact&langs_count=6&theme=dracula"/>
+</div>
