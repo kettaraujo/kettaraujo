@@ -2,12 +2,11 @@
  
 I work with data analysis, conduct studies in the field of software development and i'm a student at Federal University of ABC (UFABC).
 
-In my daily work, I use the following technologies: Python, JavaScript, MySQL database and Django.
+In my daily work, I use the following technologies: Python, Java, MySQL database and Django.
 
 Currently, I'm focusing on improving my knowledge in:
 
 - 🌀 Backend
-- 🎨 Framework React
 
 Let's talk about these topics! 😊
 <div style="display: inline_block"><br>
