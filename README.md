@@ -1,14 +1,20 @@
-### __Hi there, my name is Kethleen__ 👋
- 
-I work with data analysis, conduct studies in the field of software development and i'm a student at Federal University of ABC (UFABC).
+### Hi, I'm Kethleen 👋
 
-In my daily work, I use the following technologies: Python, Java, MySQL database and Django.
+I work with systems development and study software development, with a focus on backend.
 
-Currently, I'm focusing on improving my knowledge in:
+I'm a student at the Federal University of ABC (UFABC) and currently work with:
 
-- 🌀 Backend
+- Python
+- Django
+- PostgreSQL
+- MySQL
+- Java
+- Git/GitHub
 
-Let's talk about these topics! 😊
+Currently improving my skills in backend development, REST APIs, databases, and clean code.
+
+---
+
 <div style="display: inline_block"><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kettaraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kettaraujo&layout=compact&langs_count=6&theme=dracula"/>
